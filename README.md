@@ -89,11 +89,11 @@
 ---
 ## 👥 Team Members
 
- | Name | Part (Main Task) | GitHub |
+| Name | Part (Main Task) | GitHub |
 |:---:|:---|:---:|
- | **하태윤** | System Architecture | [@gkxodbs011-aks](https://github.com/gkxodbs011-aks) |
-| **황상준** | Hardware & Sensor Integration | [@kevinsj7878-png](https://github.com/kevinsj7878-png) |
- | **이창규** | Unreal Logic & Interaction | [@bo0sik](https://github.com/bo0sik) |
- | **김종민** | Level Design & Environment Art | [@couter0139](https://github.com/couter0139) |
- | **김명진** | UI/UX & Sound Design | [@willkh200](https://github.com/willkh200) |
+| <sub>**하태윤**</sub> | <sub>System Architecture</sub> | <sub>[@gkxodbs011-aks](https://github.com/gkxodbs011-aks)</sub> |
+| <sub>**황상준**</sub> | <sub>Hardware & Sensor Integration</sub> | <sub>[@kevinsj7878-png](https://github.com/kevinsj7878-png)</sub> |
+| <sub>**이창규**</sub> | <sub>Unreal Logic & Interaction</sub> | <sub>[@bo0sik](https://github.com/bo0sik)</sub> |
+| <sub>**김종민**</sub> | <sub>Level Design & Environment Art</sub> | <sub>[@couter0139](https://github.com/couter0139)</sub> |
+| <sub>**김명진**</sub> | <sub>UI/UX & Sound Design</sub> | <sub>[@willkh200](https://github.com/willkh200)</sub> |
   
