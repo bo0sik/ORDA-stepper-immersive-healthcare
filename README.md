@@ -60,7 +60,6 @@
 * Nanite와 Lumen을 활용한 사실적인 그래픽 구현.
 
 ---
-
 ## 🚀 How to Run
 
 1. **Hardware Connection:**
@@ -70,10 +69,6 @@
 2. **Middleware Start:**
    - 파이썬 라이브러리를 설치합니다: `pip install pyserial python-osc opencv-python mediapipe`
    - 미들웨어 서버를 실행합니다: `python Python_AI/Gaze_Tracking.py`
-
-3. **Game Start:**
-   - `Unreal_Project/ORDA.uproject`를 실행합니다.
-   - Play 버튼을 눌러 가상 공간에 접속합니다.
 
 ---
 ## 📚 References & Assets
