@@ -16,6 +16,10 @@
 * **Hardware:** Stepper Machine, Arduino, Webcam, Headset
 
 ---
+## 🎥 Project Demo
+👉 **[YouTube 소개 영상(Click Here)](https://www.youtube.com/watch?v=dGxID1m1O6o)**
+
+---
 ## 🌟 Expected Impact (기대 효과)
 1. **Gamification of Exercise:** 지루한 반복 운동인 스텝퍼에 게임 요소를 도입하여 지속적인 운동 동기를 부여합니다.
 2. **Immersive Experience:** 단순한 영상 시청을 넘어,사용자의 움직임에 반응하는 인터랙티브 콘텐츠로 몰입감을 극대화합니다.
