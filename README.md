@@ -85,4 +85,15 @@
   * [MediaPipe](https://google.github.io/mediapipe/) (Gaze Tracking)
   * [Python-OSC](https://pypi.org/project/python-osc/) (Communication)
 * **Hardware:** Arduino Uno, HC-SR04 Datasheet
+
+---
+## 👥 Team Members
+
+| Role | Name | Part (Main Task) | GitHub |
+|:---:|:---:|:---|:---:|
+| **👑 PM** | **태윤** | System Architecture | [@gkxodbs011-aks](https://github.com/gkxodbs011-aks) |
+| **🛠 ** | **상준** | Hardware & Sensor Integration | [@kevinsj7878-png](https://github.com/kevinsj7878-png) |
+| **💻 ** | **창규** | Unreal Logic & Interaction | [@bo0sik](https://github.com/bo0sik) |
+| **🎨 ** | **종민** | Level Design & Environment Art | [@couter0139](https://github.com/couter0139) |
+| **🎵 ** | **명진** | UI/UX & Sound Design | [@willkh200](https://github.com/willkh200) |
   
