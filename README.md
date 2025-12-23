@@ -68,6 +68,11 @@
 2. **Middleware Start:**
    - 파이썬 라이브러리를 설치합니다: `pip install pyserial python-osc opencv-python mediapipe`
    - 미들웨어 서버를 실행합니다: `python Python_AI/Gaze_Tracking.py`
+   
+3. **Unreal Start / Guide**
+   - Unreal 프로젝트는 용량 문제로 GitHub에 전체 포함하지 않았습니다.
+   - 대신 블루프린트 구조/실행 흐름/캡처 자료를 `guide/` 폴더에 정리했습니다.
+   - 핵심 문서: `guide/blueprint_notes.md`
 
 ---
 ## 📚 References & Assets
